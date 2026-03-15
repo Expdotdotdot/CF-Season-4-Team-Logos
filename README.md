@@ -1,9 +1,6 @@
 # Crossfire Season 4 Team Logos & Ads
-Logos are 500x500 with transparency
-
-
-# Permalinks
-## Teams
+## Permalinks
+### Teams
 Aether: https://raw.githubusercontent.com/Expdotdotdot/CF-Season-4-Team-Logos/refs/heads/main/Aether.png
 
 AURA: https://raw.githubusercontent.com/Expdotdotdot/CF-Season-4-Team-Logos/refs/heads/main/AURA.png
@@ -68,7 +65,7 @@ Zealous: https://raw.githubusercontent.com/Expdotdotdot/CF-Season-4-Team-Logos/r
 
 Zomblers: https://raw.githubusercontent.com/Expdotdotdot/CF-Season-4-Team-Logos/refs/heads/main/Zomblers.png
 
-## Ads
+### Ads
 Arena Banner: https://raw.githubusercontent.com/Expdotdotdot/CF-Season-4-Team-Logos/refs/heads/main/Ads/Arena%20Banner.png
 
 BLAZE: https://raw.githubusercontent.com/Expdotdotdot/CF-Season-4-Team-Logos/refs/heads/main/Ads/Blaze%20Logo.png
