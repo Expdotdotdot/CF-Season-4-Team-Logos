@@ -1,6 +1,5 @@
 # Crossfire Season 4 Team Logos & Ads
-https://www.faceit.com/en/championship/45d3ff29-9810-424f-b270-8c80df678474/Group%20Stage%20-%20CROSSFIRE%20Season%204
-https://www.faceit.com/en/cs2/room/1-6d3c261c-7e93-4c1b-bec7-66ceac3a9715
+https://www.faceit.com/en/championship/942bf75e-4555-45d8-91f2-50468cafd642/Playoff%20Stage%20-%20Crossfire%20Season%204
 ## Permalinks
 ### Teams
 Aether: https://raw.githubusercontent.com/Expdotdotdot/CF-Season-4-Team-Logos/refs/heads/main/Aether.png
